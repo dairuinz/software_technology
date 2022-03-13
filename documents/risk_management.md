@@ -20,4 +20,5 @@ Markdown, Pycharm, [Tables Generator](https://https://www.tablesgenerator.com/ma
 ![](/images/time-risk.png)
 ![](/images/knowledge.png)
 ![](/images/budget.png)
+![](/images/legal.png)
 

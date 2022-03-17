@@ -12,12 +12,22 @@
 + Νταβλούρος Αλέξιος, 
  
 ## Εργαλεία
-Markdown, Pycharm, [Tables Generator](https://https://www.tablesgenerator.com/markdown_tables),
+Markdown, Pycharm, [Tables Generator](https://www.tablesgenerator.com/markdown_tables),
+[Office Timeline](https://https://www.officetimeline.com/)
 
 ## Risk Assessment
 
+### Περιληπτικά
 
-## Φόρμες Καταγραφής Κινδύνων
++ Γενικοι κίνδυνοι:
+    + Αστοχία χρονοπρογραμματισμού
+    + Έλλειψη απαραίτητης γνώσης 
+    + Ελλιπής χρηματοδότηση
+    + Νομικά ζητήματα
+    + Αστοχία λειτουργιών
+    + Outdated τεχνολογίες
+
+## Φόρμες Κινδύνων
 
 ![](/images/time-risk.png)
 ![](/images/knowledge.png)
